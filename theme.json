@@ -1,4 +1,3 @@
-{"Produtos":
-    [{"id":1, "nome": "TV 42pol", "cor": "Preta", "preco": 1999.99, "estoque": 100, "codigo": "AABB101", "publicacao": "10/05/2022", "dataDeCriacao": "02/05/2022"},
+[{"id":1, "nome": "TV 42pol", "cor": "Preta", "preco": 1999.99, "estoque": 100, "codigo": "AABB101", "publicacao": "10/05/2022", "dataDeCriacao": "02/05/2022"},
         {"id": 2, "nome": "Playstation 5", "cor": "Branca", "preco": 4499.99, "estoque": 50, "codigo": "PPSS55", "publicacao": "15/05/2022", "dataDeCriacao": "05/05/2022"},
-        {"id": 3, "nome": "Fone de ouvido", "cor": "Azul", "preco": 299.99, "estoque": 150, "codigo": "FF5512", "publicacao": "20/05/2022", "dataDeCriacao": "12/05/2022"}]}
+        {"id": 3, "nome": "Fone de ouvido", "cor": "Azul", "preco": 299.99, "estoque": 150, "codigo": "FF5512", "publicacao": "20/05/2022", "dataDeCriacao": "12/05/2022"}]
